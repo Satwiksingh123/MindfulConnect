@@ -8,11 +8,11 @@ You only need a modern web browser (e.g., Chrome, Firefox).
 
 1. Download or clone the project to your local machine:
  ```bash
-git clone https://github.com/Satwiksingh123/MindfulConnect.git ```
+git clone https://github.com/Satwiksingh123/MindfulConnect.git```
 
 2. Navigate to the project folder:
  ```bash
-cd MindfulConnect  ```
+cd MindfulConnect```
 
 ### Open the index.html file in your web browser:
 
