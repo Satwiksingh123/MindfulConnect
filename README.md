@@ -7,6 +7,7 @@ You only need a modern web browser (e.g., Chrome, Firefox).
 ### Running the Project
 
 1. Download or clone the project to your local machine:
+ ```bash
 git clone https://github.com/Satwiksingh123/MindfulConnect.git
 
 ### Open the index.html file in your web browser:
