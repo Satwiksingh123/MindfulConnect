@@ -9,7 +9,7 @@ You only need a modern web browser (e.g., Chrome, Firefox).
 1. Download or clone the project to your local machine:
 git clone https://github.com/Satwiksingh123/MindfulConnect.git
 
-###Open the index.html file in your web browser:
+### Open the index.html file in your web browser:
 
 Double-click the index.html file in your file explorer.
 Or, right-click on index.html and choose "Open With" your preferred browser.
